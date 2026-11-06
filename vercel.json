@@ -2,8 +2,8 @@
   "redirects": [
     {
       "source": "/:path*",
-      "has": [{ "type": "host", "value": "vibemedianetworks.com" }],
-      "destination": "https://www.vibemedianetworks.com/:path*",
+      "has": [{ "type": "host", "value": "vibemedianetworks.in" }],
+      "destination": "https://www.vibemedianetworks.in/:path*",
       "permanent": true
     }
   ]

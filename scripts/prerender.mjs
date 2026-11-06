@@ -18,7 +18,7 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const distDir = path.join(root, "dist");
 const ssrDir = path.join(root, "dist-ssr");
 
-const SITE_URL = "https://www.vibemedianetworks.com";
+const SITE_URL = "https://www.vibemedianetworks.in";
 const PAGE_URL = `${SITE_URL}/`;
 const ORG_ID = `${SITE_URL}/#organization`;
 const WEBSITE_ID = `${SITE_URL}/#website`;
