@@ -1,0 +1,16 @@
+{
+  "name": "Vibe Media Networks | Digital Talent & Media Scouting Agency",
+  "short_name": "Vibe Media",
+  "description": "Digital talent scouting, influencer marketing campaigns, telecalling and work-from-home careers across India.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0B1320",
+  "theme_color": "#0B1320",
+  "lang": "en-IN",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/logo-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ]
+}

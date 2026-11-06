@@ -1,0 +1,9 @@
+# Vibe Media Networks - robots.txt
+# https://www.vibemedianetworks.com/robots.txt
+
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Sitemap location
+Sitemap: https://www.vibemedianetworks.com/sitemap.xml

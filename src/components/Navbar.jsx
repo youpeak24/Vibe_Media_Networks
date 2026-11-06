@@ -33,7 +33,11 @@ export default function Navbar({ onOpenBooking }) {
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between">
         {/* Brand Logo */}
-        <a href="#" className="flex items-center gap-2 group">
+        <a
+          href="#"
+          aria-label="Vibe Media Networks home"
+          className="flex items-center gap-2 group"
+        >
           <VibeLogo size="default" />
         </a>
 

@@ -18,6 +18,8 @@ export default function VibeLogo({ showText = true, size = "default", variant = 
           viewBox="0 0 120 100"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"
+          aria-hidden="true"
+          focusable="false"
           className="filter drop-shadow-sm"
         >
           <defs>

@@ -1,12 +1,10 @@
 {
-  "rewrites": [
+  "redirects": [
     {
-      "source": "/api/(.*)",
-      "destination": "/api/$1"
-    },
-    {
-      "source": "/(.*)",
-      "destination": "/index.html"
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "vibemedianetworks.com" }],
+      "destination": "https://www.vibemedianetworks.com/:path*",
+      "permanent": true
     }
   ]
 }

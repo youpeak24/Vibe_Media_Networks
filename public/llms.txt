@@ -1,0 +1,25 @@
+# Vibe Media Networks
+
+> Vibe Media Networks is a Digital Talent & Media Scouting Agency headquartered in Tamil Nadu, India. It scouts digital creators, runs influencer marketing and brand partnership campaigns, and lists work-from-home, telecalling, part-time, marketing and freelance vacancies across India. All applications and inquiries are submitted through the official contact form on the homepage.
+
+## Main page
+
+- [Home: services, careers, process, FAQ and contact form](https://www.vibemedianetworks.com/): the single canonical page for the agency.
+
+## Sections on the homepage
+
+- [About the agency](https://www.vibemedianetworks.com/#about): purpose, vision and scope.
+- [Careers and vacancies](https://www.vibemedianetworks.com/#opportunities): telecalling, work-from-home, part-time, marketing and freelance roles.
+- [Services](https://www.vibemedianetworks.com/#services): talent scouting and management, marketing and brand partnerships, careers and remote opportunities, freelancing and creator media gigs.
+- [Application process](https://www.vibemedianetworks.com/#process): four steps from application to execution.
+- [FAQ](https://www.vibemedianetworks.com/#faq): how to apply, types of remote and part-time roles, creator and brand collaboration, response times, eligibility outside Tamil Nadu.
+- [Contact and application form](https://www.vibemedianetworks.com/#contact): the official gateway for candidates, creators, brands and agencies.
+
+## Key facts
+
+- Name: Vibe Media Networks (also written VIBE MEDIA NETWORKS)
+- Type: Digital Talent & Media Scouting Agency
+- Location: Tamil Nadu, India
+- Coverage: Pan-India and global remote opportunities
+- Response time: submissions are reviewed within 24 to 48 business hours
+- Audiences: job seekers, content creators and streamers, brands, freelancers, and production houses
