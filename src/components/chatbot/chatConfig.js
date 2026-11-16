@@ -1,0 +1,42 @@
+/** Everything site-specific about the chat widget. The knowledge the AI answers from lives in api/_chatKnowledge.js. */
+export const chatConfig = {
+  siteKey: 'vibe',
+  apiPath: '/api/chat',
+  name: 'Vibe Assistant',
+  subtitle: 'Online · Jobs, creators & brands',
+  avatar: '/favicon.svg',
+  greeting:
+    "Hi, I'm the **Vibe Media Networks** assistant 👋\n\nAsk me about work-from-home, telecalling, part-time and freelance roles, creator scouting, or brand partnerships.",
+  teaser: 'Looking for a WFH or part-time job? Ask me 👋',
+  placeholder: 'Ask about jobs, creators or brands…',
+  disclaimer: 'AI assistant · answers may be imperfect. Apply only through the official form on this site.',
+  suggestions: [
+    'What jobs are available?',
+    'How do I apply?',
+    'Can I work from home?',
+    'I am a creator / brand',
+  ],
+  actions: [
+    { label: '📝 Application form', href: '#contact' },
+    { label: '💼 View careers', href: '#opportunities' },
+  ],
+  theme: {
+    '--cbx-accent': '#cf9138',
+    '--cbx-accent-2': '#b8762c',
+    '--cbx-on-accent': '#1c1204',
+    '--cbx-head-bg': 'linear-gradient(135deg, #0f172a, #1e293b)',
+    '--cbx-head-text': '#ffffff',
+    '--cbx-chip': '#945826',
+    '--cbx-link': '#945826',
+    '--cbx-bg': '#ffffff',
+    '--cbx-surface': '#f1f5f9',
+    '--cbx-text': '#0f172a',
+    '--cbx-muted': '#64748b',
+    '--cbx-border': 'rgba(15, 23, 42, 0.1)',
+    '--cbx-user-bg': '#0f172a',
+    '--cbx-user-text': '#ffffff',
+    '--cbx-font': "'Plus Jakarta Sans', 'Inter', system-ui, sans-serif",
+    '--cbx-right': '1.25rem',
+    '--cbx-bottom': '1.25rem',
+  },
+}

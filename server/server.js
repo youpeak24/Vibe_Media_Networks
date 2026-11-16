@@ -4,6 +4,7 @@ import nodemailer from "nodemailer";
 import dotenv from "dotenv";
 import path from "path";
 import { fileURLToPath } from "url";
+import chatHandler from "../api/chat.js";
 
 dotenv.config();
 
@@ -39,6 +40,9 @@ const createTransporter = () => {
   // Fallback test transporter (creates preview in console or ethereal)
   return null;
 };
+
+// AI chat assistant (same handler Vercel runs as a serverless function)
+app.post("/api/chat", chatHandler);
 
 // Health Check
 app.get("/api/health", (req, res) => {
